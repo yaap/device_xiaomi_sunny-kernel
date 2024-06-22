@@ -1,1 +1,18 @@
 #+TITLE: Kernel Prebuilts for Redmi Note 10 (sunny)
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#usage][Usage]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the Redmi Note 10 (sunny).
+
+* Usage
+
+When building PixelOS for Redmi Note 10 (sunny), clone this repository to device/xiaomi/sunny-kernel.
