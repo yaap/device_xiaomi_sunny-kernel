@@ -15,4 +15,4 @@ This is a repository that holds the kernel prebuilts for the Redmi Note 10 (sunn
 
 * Usage
 
-When building PixelOS for Redmi Note 10 (sunny), clone this repository to device/xiaomi/sunny-kernel.
+When building YAAP for Redmi Note 10 (sunny), clone this repository to device/xiaomi/sunny-kernel.
