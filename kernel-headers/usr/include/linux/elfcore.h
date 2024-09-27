@@ -45,7 +45,7 @@ struct elf_prstatus
 	unsigned long pr_sighold;	/* Set of held signals */
 #if 0
 	struct sigaltstack pr_altstack;	/* Alternate stack info */
-	struct sigaction pr_action;	/* Signal action for current sig */
+	struct __kernel_sigaction pr_action;	/* Signal action for current sig */
 #endif
 	pid_t	pr_pid;
 	pid_t	pr_ppid;

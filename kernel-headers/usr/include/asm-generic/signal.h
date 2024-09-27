@@ -100,7 +100,7 @@ typedef unsigned long old_sigset_t;
 #define __ARCH_HAS_SA_RESTORER
 #endif
 
-struct sigaction {
+struct __kernel_sigaction {
 	__sighandler_t sa_handler;
 	unsigned long sa_flags;
 #ifdef SA_RESTORER
